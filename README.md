@@ -6,7 +6,8 @@
 ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/a3bde0eb-7fb8-4595-95b3-c3665a70cd6b)
 
 ### Technologies
-![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/29357fb2-e9e1-4aec-97dd-90c4ee56002e)
+![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/29357fb2-e9e1-4aec-97dd-90c4ee56002e) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/a272aab4-cb16-4d9f-ae67-6a0e94c4aecb)
+
 
 
 
