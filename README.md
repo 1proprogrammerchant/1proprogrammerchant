@@ -4,7 +4,8 @@
 ### Languages
 ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/22f94db1-aab7-4d1c-a1b2-d1a5dd902425) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/42e22f0a-b9a2-4192-900e-b73e715978e0) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/92043306-43ec-41f5-85e8-8d084309ebe1) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/6fa4dd8d-fd2d-4ea8-a552-4796976d9116) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/d6eb41af-52bf-47d9-8f23-021236f3d91b) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/476dfcc8-1251-4d5f-af2b-b565bc8a2a55) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/2aea8a1e-c7fd-45f8-8040-e04868b9e540)
 ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/a3bde0eb-7fb8-4595-95b3-c3665a70cd6b)
-![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/097653f2-b2bf-4e90-af1f-16919f21e3f1)
+![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/a5cac4c8-e2e1-45e4-9dd1-0f218baa9acf)
+
 
 
 ### Technologies
