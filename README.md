@@ -12,6 +12,7 @@
 ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/29357fb2-e9e1-4aec-97dd-90c4ee56002e) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/a272aab4-cb16-4d9f-ae67-6a0e94c4aecb) ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/61e2ae11-99c6-4cf6-a838-1dc35c4b7ebe)
 ![image](https://github.com/1proprogrammerchant/1proprogrammerchant/assets/126305902/9cf94800-7635-461d-8583-495d0a8f1d55)
 
+-pronouns: He/Him
 
 
 
