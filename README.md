@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently doing machine learning
-- 📫 How to reach me: chantdev@hotmail.com or sacehenry@gmail.com
+- 📫 How to reach me: sacehenry@gmail.com
 -  pronouns: He/Him
 -  rarely active
 -  machine learning programmer
